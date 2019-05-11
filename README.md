@@ -1,2 +1,2 @@
 # p5js_sketch
-Example Sketch to host p5js sketch w github pages
+Showing how to host p5.js sketch with github pages
